@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/previsao_clima/static/css/main.5c942900.css",
-    "main.js": "/previsao_clima/static/js/main.080a46b9.js",
+    "main.js": "/previsao_clima/static/js/main.59a9c446.js",
     "index.html": "/previsao_clima/index.html",
     "main.5c942900.css.map": "/previsao_clima/static/css/main.5c942900.css.map",
-    "main.080a46b9.js.map": "/previsao_clima/static/js/main.080a46b9.js.map"
+    "main.59a9c446.js.map": "/previsao_clima/static/js/main.59a9c446.js.map"
   },
   "entrypoints": [
     "static/css/main.5c942900.css",
-    "static/js/main.080a46b9.js"
+    "static/js/main.59a9c446.js"
   ]
 }
