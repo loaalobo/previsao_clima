@@ -51,7 +51,7 @@ function App() {
         </div>
       </main>
       <footer>
-        <p><small>Desenvolvido por <a href="https://github.com/loaalobo" target="_blank" title='clique aqui para acessar meu github'>Lorena Lobo</a></small></p>
+        <p><small>Desenvolvido por <a href="https://github.com/loaalobo" target="_blank" title='clique aqui para acessar meu github'>Lorena Lobo</a>.</small></p>
       </footer>
     </div>
   );
